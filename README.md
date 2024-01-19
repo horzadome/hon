@@ -1,3 +1,15 @@
+# Fork to keep the code alive
+
+I'm not the author of this project. Author is https://github.com/Andre0512/hon and was forced to shut down this project despite not doing anything wrong.
+
+I've revewed this code and I don't see any copyright infringements or any other foul play in it.
+Therefore, I'll just leave it here.
+If by some chance GitHub removes it for some reason (no idea why they would ever do that), I'll simply host it elsewhere.
+
+I do not run this plugin, I own nothing from that manufacturer and I haven't entered into any contracts with that company.
+
+Here's a video about with more information: https://youtu.be/RcSnd3cyti0?si=n6NX5PjFYuWuBKPP
+
 # Announcement: I have to take the project down in the next few days
 > Dear User,
 > 
